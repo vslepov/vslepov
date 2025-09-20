@@ -1,5 +1,8 @@
 ## Hi there 👋
+My name Vyacheslav Slepov.
 
+## Beginner Neural Network Developer
+🌱 I'm currently studying the neural network developer course at THE FOUNDER.
 <!--
 **vslepov/vslepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
